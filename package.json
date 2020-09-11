@@ -1,0 +1,26 @@
+{
+  "name": "func-ascii",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "func-ascii": "index.js"
+  },
+  "author": "Anthony Chu <anthony@anthonychu.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonychu/func-ascii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonychu/func-ascii/issues"
+  },
+  "homepage": "https://github.com/anthonychu/func-ascii#readme",
+  "description": ""
+}
